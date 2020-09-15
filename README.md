@@ -11,3 +11,4 @@
 	(해를 만들고 해를 기준으로 4개의 이미지에 그림자 생성)(좌표계산)(삼각함수)
 
 */
+https://docs.godotengine.org/ko/stable/tutorials/2d/2d_lights_and_shadows.html
